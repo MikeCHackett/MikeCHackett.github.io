@@ -3,17 +3,41 @@ body {
 }
 
 h1 {
-    color: darkRed;
+     position: absolute;
+    top: 50%; 
+    right: 50%;
+    transform: translate(50%,-50%);
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 12em;
+    font-weight: 700;
+    color: rgb(105,105,105);
+    text-shadow: 1px 1px 1px rgb(255,69,0),
+        1px 2px 1px rgb(205,92,92),
+        1px 3px 1px rgb(205,92,92),
+        1px 4px 1px rgb(205,92,92),
+        1px 5px 1px rgb(205,92,92),
+        1px 6px 1px rgb(205,92,92),
+        1px 7px 1px rgb(205,92,92),
+        1px 8px 1px rgb(205,92,92),
+        1px 9px 1px rgb(205,92,92),
+        1px 10px 1px rgb(205,92,92),
+    1px 25px 35px rgb(250,128,114),
+    1px 25px 35px rgb(220,20,60),
+    1px 25px 35px rgb(255,160,122),
+    1px 30px 60px rgb(139,0,0);
 }
 
 p {
-    color: black;
+    color: rgb(220,20,60);
     font-size: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
 
 }
 
 a {
   color: #fff;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .bd-placeholder-img {
