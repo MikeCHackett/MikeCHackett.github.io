@@ -3,7 +3,6 @@ body {
 }
 
 h1 {
-    transform: translate(50%,-50%);
     text-transform: uppercase;
     font-family: verdana;
     font-size: 12em;
