@@ -34,11 +34,6 @@ p {
     color: rgb(220,20,60);
     font-size: 12em;
     font-family: "Lucida Console", "Courier New", monospace;
-    margin: 10px;
-    line-height: 28px;
-    text-align: justify;
-    width: 200px;
-    float: left;
 }
 
 }
