@@ -86,3 +86,17 @@ a {
 .fa-github-square {
     color:  darkgrey;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#rcorners {
+  border-radius: 15px;
+  background: picofme.png);
+  background-position: center;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
