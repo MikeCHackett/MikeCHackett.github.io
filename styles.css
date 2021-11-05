@@ -2,12 +2,14 @@ body {
     background-color: lightgrey
 }
 
-
-
 h1 {
     text-transform: uppercase;
     font-family: verdana;
     font-size: 20em;
+    font-weight: 700;
+    line-height: 28px;
+    margin: 10;
+    width: 500px;
     float: left;
     color: rgb(105,105,105);
     text-shadow: 1px 1px 1px rgb(255,69,0),
@@ -30,8 +32,6 @@ p {
     color: rgb(220,20,60);
     font-size: 12em;
     font-family: "Lucida Console", "Courier New", monospace;
-}
-
 }
 
 a {
