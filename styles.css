@@ -7,7 +7,7 @@ h1 {
     font-family: verdana;
     font-size: 20em;
     font-weight: 700;
-    line-height: 28px;
+    line-height: 1.4;
     margin: 10;
     width: 500px;
     float: left;
@@ -32,11 +32,11 @@ p {
     color: rgb(220,20,60);
     font-size: 12em;
     font-family: "Lucida Console", "Courier New", monospace;
+    line-height: 1.1;
 }
 
 a {
   color: #fff;
-    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .bd-placeholder-img {
@@ -78,8 +78,6 @@ a {
     line-height: 38px;
     margin: 0 25px;
 }
-
-
 
 .fa-linkedin {
     color: #0a66c2;
