@@ -123,4 +123,6 @@ iframe {
     border: 5px solid rgb(178,34,34);
 }
 
-
+img.rounded-corners {
+    border-radius: 50%;
+}
