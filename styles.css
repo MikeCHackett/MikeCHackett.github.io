@@ -58,7 +58,11 @@ p {
     color: rgb(220,20,60);
     font-size: 18em;
     font-family: "Lucida Console", "Courier New", monospace;
-    line-height: 1.1;
+    background-color: rgb(245,245,245);
+    width: auto;
+    border: 15px solid rgb(178,34,34);
+    padding: 50px;
+    margin: 20px;
 }
 
 a {
@@ -118,3 +122,9 @@ img {
   height: auto;
   border-radius: 50%;border;
 }
+
+iframe {
+    border: 5px solid rgb(178,34,34);
+}
+
+
