@@ -117,11 +117,7 @@ a {
     color:  darkgrey;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 50%;border;
-}
+
 
 iframe {
     border: 5px solid rgb(178,34,34);
